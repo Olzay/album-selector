@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "username": "johndoe123",
+    "password": "password123",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "postal_code": "90210"
+    },
+    "phone": "555-123-4567",
+    "dob": "1985-06-15",
+    "gender": "male",
+    "occupation": "Software Developer",
+    "company": "Tech Corp"
+  },
+  {
+    "id": 2,
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "username": "janesmith456",
+    "password": "mypassword456",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Sometown",
+      "state": "NY",
+      "postal_code": "10001"
+    },
+    "phone": "555-987-6543",
+    "dob": "1992-11-25",
+    "gender": "female",
+    "occupation": "Graphic Designer",
+    "company": "Creative Studio"
+  },
+  {
+    "id": 3,
+    "first_name": "Alice",
+    "last_name": "Johnson",
+    "email": "alice.johnson@example.com",
+    "username": "alicej789",
+    "password": "alicePass789",
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Newcity",
+      "state": "TX",
+      "postal_code": "73301"
+    },
+    "phone": "555-321-0987",
+    "dob": "1978-03-09",
+    "gender": "female",
+    "occupation": "Marketing Manager",
+    "company": "Marketing Inc"
+  }
+]

@@ -1,0 +1,1226 @@
+{
+  "status": "success",
+  "albums": [
+    {
+      "album_id": 0,
+      "album_name": "Galactic Dreams",
+      "artist": "John Doe",
+      "artist_id": "1",
+      "artwork": {
+        "id": 102,
+        "author": "Ben Moore",
+        "width": 4320,
+        "height": 3240,
+        "url": "https://unsplash.com/photos/pJILiyPdrXI",
+        "download_url": "https://picsum.photos/id/102/4320/3240"
+      },
+      "tracks": [
+        {
+          "title": "Stellar Skies",
+          "length": "3:45",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Cosmic Journey",
+          "length": "4:12",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nova Lights",
+          "length": "3:50",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Dream Escape",
+          "length": "4:05",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Galaxy in Motion",
+          "length": "3:58",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Starlit Dreams",
+          "length": "4:18",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Eclipse of Hearts",
+          "length": "3:39",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nebula Nights",
+          "length": "4:25",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Beyond the Stars",
+          "length": "3:53",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Celestial Waves",
+          "length": "4:07",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Interstellar Love",
+          "length": "3:30",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Light Years Away",
+          "length": "4:15",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 1,
+      "album_name": "Moonlit Echoes",
+      "artist": "Jane Smith",
+      "artist_id": "2",
+      "artwork": {
+        "id": "103",
+        "author": "Ilham Rahmansyah",
+        "width": 2592,
+        "height": 1936,
+        "url": "https://unsplash.com/photos/DwTZwZYi9Ww",
+        "download_url": "https://picsum.photos/id/103/2592/1936"
+      },
+      "tracks": [
+        {
+          "title": "Lunar Pulse",
+          "length": "4:00",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Midnight Resonance",
+          "length": "3:42",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Moonlit Dreams",
+          "length": "4:08",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Echoing Silence",
+          "length": "3:57",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Celestial Echoes",
+          "length": "4:02",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nightfall Rhythms",
+          "length": "4:15",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Moonbeam Mirage",
+          "length": "3:50",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Starlight Reflections",
+          "length": "4:05",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ethereal Glow",
+          "length": "3:58",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sound of the Moon",
+          "length": "4:10",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 2,
+      "album_name": "Silent Whispers",
+      "artist": "Jane Smith",
+      "artist_id": "2",
+      "artwork": {
+        "id": "104",
+        "author": "Dyaa Eldin",
+        "width": 3840,
+        "height": 2160,
+        "url": "https://unsplash.com/photos/2fl-ocJ5MOA",
+        "download_url": "https://picsum.photos/id/104/3840/2160"
+      },
+      "tracks": [
+        {
+          "title": "Silent Breeze",
+          "length": "3:48",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Whispering Woods",
+          "length": "4:00",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Echoes of Dawn",
+          "length": "4:10",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Winds of Change",
+          "length": "3:42",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Fading Stars",
+          "length": "3:55",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nightfall Serenity",
+          "length": "4:05",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Moonlit Fields",
+          "length": "3:58",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Horizon's End",
+          "length": "4:20",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Distant Echoes",
+          "length": "3:50",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost in Time",
+          "length": "4:03",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Eternal Whispers",
+          "length": "4:07",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 3,
+      "album_name": "Waves of Sound",
+      "artist": "John Doe",
+      "artist_id": "1",
+      "artwork": {
+        "id": "106",
+        "author": "Arvee Marie",
+        "width": 2592,
+        "height": 1728,
+        "url": "https://unsplash.com/photos/YnfGtpt2gf4",
+        "download_url": "https://picsum.photos/id/106/2592/1728"
+      },
+      "tracks": [
+        {
+          "title": "Rising Tides",
+          "length": "3:45",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Breaking Waves",
+          "length": "4:10",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ocean Horizon",
+          "length": "3:52",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Tidal Dreams",
+          "length": "4:05",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sea Breeze",
+          "length": "3:58",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Waves of Change",
+          "length": "4:15",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sailing Away",
+          "length": "4:00",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Stormy Seas",
+          "length": "3:48",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Whispers of the Deep",
+          "length": "4:07",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Crashing Shores",
+          "length": "3:55",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Island Dreams",
+          "length": "4:12",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost at Sea",
+          "length": "4:02",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ocean's Embrace",
+          "length": "4:18",
+          "id": 12,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 4,
+      "album_name": "Endless Roads",
+      "artist": "Alice Johnson",
+      "artist_id": "3",
+      "artwork": {
+        "id": "107",
+        "author": "Lukas Schweizer",
+        "width": 5000,
+        "height": 3333,
+        "url": "https://unsplash.com/photos/9VWOr22LhVI",
+        "download_url": "https://picsum.photos/id/107/5000/3333"
+      },
+      "tracks": [
+        {
+          "title": "Open Highways",
+          "length": "3:55",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Chasing the Sun",
+          "length": "4:10",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Endless Journey",
+          "length": "3:42",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Desert Mirage",
+          "length": "3:50",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Winding Roads",
+          "length": "4:12",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost Horizons",
+          "length": "3:58",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Miles Ahead",
+          "length": "4:07",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sunset Drive",
+          "length": "3:45",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "On the Edge",
+          "length": "4:05",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Rolling Hills",
+          "length": "3:55",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Journey's End",
+          "length": "4:08",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Crossroads",
+          "length": "4:00",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Wide Open Spaces",
+          "length": "4:18",
+          "id": 12,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Final Destination",
+          "length": "4:10",
+          "id": 13,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 5,
+      "album_name": "Galactic Dreams",
+      "artist": "John Doe",
+      "artist_id": "1",
+      "artwork": {
+        "id": "102",
+        "author": "Ben Moore",
+        "width": 4320,
+        "height": 3240,
+        "url": "https://unsplash.com/photos/pJILiyPdrXI",
+        "download_url": "https://picsum.photos/id/102/4320/3240"
+      },
+      "tracks": [
+        {
+          "title": "Stellar Skies",
+          "length": "3:45",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Cosmic Journey",
+          "length": "4:12",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nova Lights",
+          "length": "3:50",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Dream Escape",
+          "length": "4:05",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Galaxy in Motion",
+          "length": "3:58",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Starlit Dreams",
+          "length": "4:18",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Eclipse of Hearts",
+          "length": "3:39",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nebula Nights",
+          "length": "4:25",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Beyond the Stars",
+          "length": "3:53",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Celestial Waves",
+          "length": "4:07",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Interstellar Love",
+          "length": "3:30",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Light Years Away",
+          "length": "4:15",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 6,
+      "album_name": "Moonlit Echoes",
+      "artist": "Jane Smith",
+      "artist_id": "2",
+      "artwork": {
+        "id": "103",
+        "author": "Ilham Rahmansyah",
+        "width": 2592,
+        "height": 1936,
+        "url": "https://unsplash.com/photos/DwTZwZYi9Ww",
+        "download_url": "https://picsum.photos/id/103/2592/1936"
+      },
+      "tracks": [
+        {
+          "title": "Lunar Pulse",
+          "length": "4:00",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Midnight Resonance",
+          "length": "3:42",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Moonlit Dreams",
+          "length": "4:08",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Echoing Silence",
+          "length": "3:57",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Celestial Echoes",
+          "length": "4:02",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nightfall Rhythms",
+          "length": "4:15",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Moonbeam Mirage",
+          "length": "3:50",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Starlight Reflections",
+          "length": "4:05",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ethereal Glow",
+          "length": "3:58",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sound of the Moon",
+          "length": "4:10",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 7,
+      "album_name": "Silent Whispers",
+      "artist": "Jane Smith",
+      "artist_id": "2",
+      "artwork": {
+        "id": "104",
+        "author": "Dyaa Eldin",
+        "width": 3840,
+        "height": 2160,
+        "url": "https://unsplash.com/photos/2fl-ocJ5MOA",
+        "download_url": "https://picsum.photos/id/104/3840/2160"
+      },
+      "tracks": [
+        {
+          "title": "Silent Breeze",
+          "length": "3:48",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Whispering Woods",
+          "length": "4:00",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Echoes of Dawn",
+          "length": "4:10",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Winds of Change",
+          "length": "3:42",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Fading Stars",
+          "length": "3:55",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Nightfall Serenity",
+          "length": "4:05",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Moonlit Fields",
+          "length": "3:58",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Horizon's End",
+          "length": "4:20",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Distant Echoes",
+          "length": "3:50",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost in Time",
+          "length": "4:03",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Eternal Whispers",
+          "length": "4:07",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 8,
+      "album_name": "Waves of Sound",
+      "artist": "John Doe",
+      "artist_id": "1",
+      "artwork": {
+        "id": "106",
+        "author": "Arvee Marie",
+        "width": 2592,
+        "height": 1728,
+        "url": "https://unsplash.com/photos/YnfGtpt2gf4",
+        "download_url": "https://picsum.photos/id/106/2592/1728"
+      },
+      "tracks": [
+        {
+          "title": "Rising Tides",
+          "length": "3:45",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Breaking Waves",
+          "length": "4:10",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ocean Horizon",
+          "length": "3:52",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Tidal Dreams",
+          "length": "4:05",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sea Breeze",
+          "length": "3:58",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Waves of Change",
+          "length": "4:15",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sailing Away",
+          "length": "4:00",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Stormy Seas",
+          "length": "3:48",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Whispers of the Deep",
+          "length": "4:07",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Crashing Shores",
+          "length": "3:55",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Island Dreams",
+          "length": "4:12",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost at Sea",
+          "length": "4:02",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ocean's Embrace",
+          "length": "4:18",
+          "id": 12,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 9,
+      "album_name": "Endless Roads",
+      "artist": "Alice Johnson",
+      "artist_id": "3",
+      "artwork": {
+        "id": "107",
+        "author": "Lukas Schweizer",
+        "width": 5000,
+        "height": 3333,
+        "url": "https://unsplash.com/photos/9VWOr22LhVI",
+        "download_url": "https://picsum.photos/id/107/5000/3333"
+      },
+      "tracks": [
+        {
+          "title": "Open Highways",
+          "length": "3:55",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Chasing the Sun",
+          "length": "4:10",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Endless Journey",
+          "length": "3:42",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Desert Mirage",
+          "length": "3:50",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Winding Roads",
+          "length": "4:12",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost Horizons",
+          "length": "3:58",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Miles Ahead",
+          "length": "4:07",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sunset Drive",
+          "length": "3:45",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "On the Edge",
+          "length": "4:05",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Rolling Hills",
+          "length": "3:55",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Journey's End",
+          "length": "4:08",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Crossroads",
+          "length": "4:00",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Wide Open Spaces",
+          "length": "4:18",
+          "id": 12,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Final Destination",
+          "length": "4:10",
+          "id": 13,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 10,
+      "album_name": "Waves of Sound",
+      "artist": "John Doe",
+      "artist_id": "1",
+      "artwork": {
+        "id": "106",
+        "author": "Arvee Marie",
+        "width": 2592,
+        "height": 1728,
+        "url": "https://unsplash.com/photos/YnfGtpt2gf4",
+        "download_url": "https://picsum.photos/id/106/2592/1728"
+      },
+      "tracks": [
+        {
+          "title": "Rising Tides",
+          "length": "3:45",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Breaking Waves",
+          "length": "4:10",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ocean Horizon",
+          "length": "3:52",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Tidal Dreams",
+          "length": "4:05",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sea Breeze",
+          "length": "3:58",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Waves of Change",
+          "length": "4:15",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sailing Away",
+          "length": "4:00",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Stormy Seas",
+          "length": "3:48",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Whispers of the Deep",
+          "length": "4:07",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Crashing Shores",
+          "length": "3:55",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Island Dreams",
+          "length": "4:12",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost at Sea",
+          "length": "4:02",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Ocean's Embrace",
+          "length": "4:18",
+          "id": 12,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    },
+    {
+      "album_id": 11,
+      "album_name": "Endless Roads",
+      "artist": "Alice Johnson",
+      "artist_id": "3",
+      "artwork": {
+        "id": "107",
+        "author": "Lukas Schweizer",
+        "width": 5000,
+        "height": 3333,
+        "url": "https://unsplash.com/photos/9VWOr22LhVI",
+        "download_url": "https://picsum.photos/id/107/5000/3333"
+      },
+      "tracks": [
+        {
+          "title": "Open Highways",
+          "length": "3:55",
+          "id": 0,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Chasing the Sun",
+          "length": "4:10",
+          "id": 1,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Endless Journey",
+          "length": "3:42",
+          "id": 2,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Desert Mirage",
+          "length": "3:50",
+          "id": 3,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Winding Roads",
+          "length": "4:12",
+          "id": 4,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Lost Horizons",
+          "length": "3:58",
+          "id": 5,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Miles Ahead",
+          "length": "4:07",
+          "id": 6,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Sunset Drive",
+          "length": "3:45",
+          "id": 7,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "On the Edge",
+          "length": "4:05",
+          "id": 8,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Rolling Hills",
+          "length": "3:55",
+          "id": 9,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Journey's End",
+          "length": "4:08",
+          "id": 10,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Crossroads",
+          "length": "4:00",
+          "id": 11,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Wide Open Spaces",
+          "length": "4:18",
+          "id": 12,
+          "artist": "",
+          "genre": ""
+        },
+        {
+          "title": "Final Destination",
+          "length": "4:10",
+          "id": 13,
+          "artist": "",
+          "genre": ""
+        }
+      ]
+    }
+  ]
+}
