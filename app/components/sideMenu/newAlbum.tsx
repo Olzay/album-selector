@@ -8,7 +8,10 @@ import { getRandomArtwork, getRandomUser } from "../utilities";
 
 const NewAlbum = () => {
   const router = useRouter();
-  const [albumsFromLocalStorage, setAlbumbsInLocalStorage] = useLocalStorage("albums", "");
+  const [albumsFromLocalStorage, setAlbumbsInLocalStorage] = useLocalStorage(
+    "albums",
+    ""
+  );
   const [showInput, setShowInput] = useState(false);
   const [name, setName] = useState("");
 
@@ -22,7 +25,9 @@ const NewAlbum = () => {
     }
 
     if (!albumsFromLocalStorage) {
-      alert("Oops, something went wrong after resetting the data. Try refreshing the page?");
+      alert(
+        "Oops, something went wrong after resetting the data. Try refreshing the page?"
+      );
       return;
     }
 
@@ -60,7 +65,10 @@ const NewAlbum = () => {
     <div>
       <div className="flex flex-row items-center my-2">
         <FaPlus />
-        <button className="ml-4" onClick={() => setShowInput(true)}>
+        <button
+          className="ml-4 border-transparent border-b-2 hover:border-b-2 hover:border-white transition-colors ease-in-out duration-1000"
+          onClick={() => setShowInput(true)}
+        >
           Create New Album
         </button>
       </div>
@@ -82,7 +90,12 @@ const NewAlbum = () => {
                 <button title="create" className="" type="submit">
                   <FaRegCheckCircle size={20} className="pointer-events-none" />
                 </button>
-                <button title="cancel" type="button" className="" onClick={() => setShowInput(false)}>
+                <button
+                  title="cancel"
+                  type="button"
+                  className=""
+                  onClick={() => setShowInput(false)}
+                >
                   <FaRegStopCircle size={20} className="pointer-events-none" />
                 </button>
               </div>

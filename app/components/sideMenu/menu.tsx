@@ -13,7 +13,10 @@ const Menu = () => {
     <menu className="flex flex-col justify-between h-full">
       <div className="flex flex-row items-center">
         <FaHome />
-        <Link className="ml-4" href="/">
+        <Link
+          className="ml-4 border-transparent border-b-2 hover:border-b-2 hover:border-white transition-colors ease-in-out duration-1000"
+          href="/"
+        >
           Home
         </Link>
       </div>

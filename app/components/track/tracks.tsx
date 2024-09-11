@@ -13,7 +13,13 @@ const Tracks = () => {
   const [albumsFromLocalStorage, setAlbumsInLocalStorage] = useLocalStorage("albums", "");
   const [allAlbums, setAllAlbums] = useState(albumsFromLocalStorage);
   const [singleAlbum, setSingleAlbum] = useState<AlbumProps | undefined>(undefined);
-  const [currentTrack, setCurrentTrack] = useState<TrackProps>({ id: "", title: "", artist: "", genre: "", length: "" });
+  const [currentTrack, setCurrentTrack] = useState<TrackProps>({
+    id: "",
+    title: "",
+    artist: "",
+    genre: "",
+    length: "",
+  });
   const [task, setTask] = useState("Create");
 
   const albumId = pathname.split("-").pop(); // extract album id
@@ -114,7 +120,7 @@ const Tracks = () => {
         </div>
 
         <div className="flex flex-col w-1/5 mx-3">
-          <input className={`h-full ${inputStyles}`} type="submit" value={task} />
+          <input className={`h-full cursor-pointer ${inputStyles}`} type="submit" value={task} />
           {task === "Edit" && (
             <button type="button" className={`bg-red-900 font-bold ${inputStyles}`} onClick={resetForm}>
               Cancel
