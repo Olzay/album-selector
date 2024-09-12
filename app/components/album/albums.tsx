@@ -18,7 +18,7 @@ const Albums = () => {
   }, []); // Empty dependency array ensures this effect runs only once on component mount
 
   return (
-    <div data-component={"Albums"} className="w-full grid grid-cols-4 gap-1">
+    <div data-component={"Albums"} className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1 w-full">
       {!isLoading ? (
         albumsFromLocalStorage.albums.map((album: AlbumProps) => {
           return <Album key={album.album_id} {...album} shouldLink={true} />;

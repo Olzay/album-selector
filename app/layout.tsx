@@ -31,7 +31,7 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <div className="w-full">
           <SideMenu />
-          <div className="w-4/5 ml-[20%] px-5 flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)]">
+          <div className="w-full lg:w-4/5 lg:ml-[20%] px-5 flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)]">
             <Header />
             {children}
             <Footer />
