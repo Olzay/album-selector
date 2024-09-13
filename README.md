@@ -30,6 +30,10 @@ Users can:
 4. Edit Tracks: Users can edit the details (title, artist, genre) of an existing track.
 5. Delete Tracks: Users can delete specific tracks from an album. 6. Delete Album: Users can delete an entire album, which removes all tracks within it.
 
+## Future Features
+
+1. Change Users - add feature to mimic authentication, switch user and give users specific edit permissions to their Albums
+
 ## Technologies Used
 
 • React.js: For building the frontend components.
